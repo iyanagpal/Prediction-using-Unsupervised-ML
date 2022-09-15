@@ -1,5 +1,5 @@
 # Author: Supriya Nagpal 
-## Data Science Intern @ The Sparks Foundation
+## Data Science and Business Analytics Intern @ The Sparks Foundation
 ### Data Science and Business Analytics Internship at The Sparks Foundation.
 
 #### GRIP - Task #2 ~ Prediction using Unsupervised ML 
