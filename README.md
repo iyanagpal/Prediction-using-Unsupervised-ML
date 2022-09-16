@@ -4,7 +4,7 @@
 
 #### GRIP - Task #2 ~ Prediction using Unsupervised ML 
 
-#### Task discription : Predict the optimum number of clusters and represent it visually, from the given 'Iris' dataset.
+#### Task description : Predict the optimum number of clusters and represent it visually, from the given 'Iris' dataset.
 
 Dataset link: https://bit.ly/3kXTdox
 
